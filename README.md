@@ -20,6 +20,8 @@
 
 仕様書テンプレート：https://template.k-solution.info/2007/03/01_17.html#google_vignette
 
+## 現状
+figmaにて画面遷移図を作成中
 ## 作業計画
 | # | 日付 | 作業内容 |
 | --- | --- | --- |
