@@ -22,6 +22,8 @@
 
 ## 現状
 figmaにて画面遷移図を作成中
+![image](https://github.com/kaishiFlower/portfolio/assets/135951311/fdb03702-690c-4785-8da6-ebd43065fa8f)
+
 ## 作業計画
 | # | 日付 | 作業内容 |
 | --- | --- | --- |
